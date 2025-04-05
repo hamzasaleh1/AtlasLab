@@ -102,7 +102,7 @@ The project used multiple datasets that cover:
 ---
 
 ## 👨‍💻 Author
-- **[Your Name Here]**
-- [LinkedIn Profile] | [GitHub Profile]
+- **[Hamza Saleh]**
+- https://www.linkedin.com/in/hamzasaleh1/
 
 ---
